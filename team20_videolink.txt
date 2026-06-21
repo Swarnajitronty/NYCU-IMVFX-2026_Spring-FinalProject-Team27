@@ -14,8 +14,3 @@ Video Contents:
 - Real-time processing examples
 - Quality metrics comparison
 - Before/After results visualization
-
-For more information:
-- GitHub Repository: https://github.com/Swarnajitronty/NYCU-IP-2025_Fall-FinalProject-Team20.git
-- Contact: swarnajit.ee14@nycu.edu.tw
-- ORCID: 0000-0002-8113-1816
