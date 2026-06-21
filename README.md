@@ -229,21 +229,6 @@ Lunar Lumina effectively addresses multiple noise sources:
 | **Resource Efficiency** | ✅ 4.2 MB memory | ❌ GBs (model files) |
 | **Reproducibility** | ✅ Deterministic | ⚠️ Variable |
 
-## 📁 Project Structure
-
-```
-lunar-lumina/
-├── lunar_lumina.py          # Main processing module
-├── Team20_part4_report.pdf  # Full research paper
-├── README.md                # This file
-├── requirements.txt         # Python dependencies
-├── examples/                # Sample images and results
-│   ├── original.jpg
-│   ├── enhanced.jpg
-│   └── comparison.png
-└── LICENSE                  # MIT License
-```
-
 ## 📖 Citation
 
 If you use Lunar Lumina in your research or projects, please cite:
